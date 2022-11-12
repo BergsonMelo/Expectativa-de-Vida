@@ -3,10 +3,10 @@
 # Nome dos integrantes: 
 Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medeiros Linhares Gomes.
 
-# Perguntas
-1 - 
-2 -
-3 - 
+# Perguntas:
+1 - Pergunta 1
+2 - Pergunta 2
+3 - Pergunta 3
 
 # Rerefência para os dados:
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download
