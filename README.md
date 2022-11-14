@@ -9,7 +9,7 @@ Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medei
 3. Países com maior escolaridade possuem maior expectativa de vida?
 4. Existe relação entre mortalidade infantil e um baixo índice de massa corporal?
 5. Existe uma relação entre o PIB per Capita e os gastos governamentais com saúde?
-
+...
 # Rerefência para os dados:
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download
 
