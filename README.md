@@ -1,4 +1,4 @@
-# Análise sobre a expectativa de vida da população
+# Uma breve análise de correlações entre fatores socioeconômicos.
 
 # Nome dos integrantes: 
 Davi Cavalcanti de Mello, Bergson Gabriel da Silva Oliveira Melo, Lucas de Medeiros Linhares Gomes.
